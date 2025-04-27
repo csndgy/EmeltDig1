@@ -10,6 +10,7 @@ namespace autokmozgasa
     internal class Program
     {
         public static List<Jeladas> jeladasok { get; set; }
+        
 
         static void Main(string[] args)
         {

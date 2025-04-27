@@ -14,6 +14,7 @@
             sebesseg = int.Parse(adatok[3]);
         }
 
+
         public string Rendszam { get => rendszam; set => rendszam = value; }
         public int Ora { get => ora; set => ora = value; }
         public int Perc { get => perc; set => perc = value; }
